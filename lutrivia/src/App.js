@@ -1,11 +1,14 @@
 import React from 'react';
+import './App.css'
+import questions from './data.js'
+import Container from './Container.js'
 
-function App() {
-  return (
-    <div>
+export default class App extends React.Component {
 
-    </div>
-  );
+  render(){
+    return(
+       <Container questions={ questions } />
+    )
+  }
+
 }
-
-export default App;
