@@ -1,0 +1,25 @@
+.container {
+	padding: 2.5px;
+	margin: 0 auto 0 auto;
+	border: 2px solid #000;
+	width: 50%;
+}
+
+.question_list {
+	padding: 2.5px;
+	margin: 0 auto 0 auto;
+	border: 1px solid #000;
+}
+
+.question_card {
+	padding: 2.5px;
+	margin: 0 auto 0 auto;
+	border: 1px solid #000;
+}
+
+.submit_card {
+	padding: 2.5px;
+	margin: 0 auto 0 auto;
+	border: 1px solid #000;
+	/* width: 50%; */
+}
